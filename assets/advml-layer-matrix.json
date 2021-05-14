@@ -1,0 +1,14 @@
+{
+  "name": "AdvML Matrix",
+  "versions": {
+      "layer": "4.2",
+      "navigator": "4.2"
+  },
+  "description": "Adversarial Machine Learning Threat Matrix",
+  "domain": "advml-v2-+-enterprise-v9-advml",
+  "filters": {
+      "platforms": [
+          "AdvML"
+      ]
+  }
+}
